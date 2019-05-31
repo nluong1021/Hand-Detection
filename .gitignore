@@ -1,2 +1,5 @@
 # jupyter notebook checkpoints
 .ipynb_checkpoints
+sample_frames/
+sample_hand_hists/
+
